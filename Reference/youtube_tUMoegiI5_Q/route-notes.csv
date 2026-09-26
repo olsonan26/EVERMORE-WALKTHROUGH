@@ -1,0 +1,21 @@
+start,end,zone,visible_landmarks,game_build_notes,confidence
+00:00,00:20,Entry / festival lawn,"green tents; wood tower/gazebo; large pumpkins; mountain backdrop","establish open lawn, stone wall, tower silhouette, seasonal props",medium
+00:20,00:40,Pumpkin arch gateway,"pumpkin-covered arch; green tent; path bend","use as a strong transition gate from open lawn to enclosed garden",high
+00:40,01:20,Curved garden path,"low retaining wall; shrubs; hanging pumpkins; costumed characters","narrow path with dense planting and short sightlines",high
+01:20,01:50,Garden prop path,"white signposts; skull rock; slope planting","edge props should sit in planting beds, not path center",high
+01:50,02:30,Fire pit vignette,"round stone fire pit; cauldron; candy/lollipop props; colored uplights","small off-path interaction node",high
+02:30,03:10,Stone gate approach,"stone gate/posts; lamp posts; spooky plant props; village facades","squeeze from garden into village",high
+03:20,05:00,Confection/cafe interior,"display window; candy shelves; potion bottles; lollipops; bakery counter","small shop interior kit with warm lighting",medium
+05:10,06:40,Towne Square approach,"pumpkin beds; park map; Haunted Circus sign; stone buildings","sign cluster becomes a navigation anchor",high
+06:40,07:30,Towne Square / Barter's Post side,"stone paving; planters; barrels; blue shutters; round Barter's Post sign","commercial plaza with close storefront facades",high
+07:40,08:30,Gravel stage courtyard,"stone wall; pumpkins; fog; broad gravel court; chapel in view","large reveal space; chapel tower as beacon",medium
+08:30,10:50,Food/shop frontage,"market stall; weapon props; menu board; food interior; Barter's Post window","densest prop area; menus, barrels, trunks, counters",high
+11:00,11:25,Chapel graveyard frontage,"chapel facade; hay bales; jack-o-lanterns; pumpkin tree; skull props","seasonal graveyard overlay in front of chapel",high
+11:25,12:15,Back garden/activity transition,"stone gate; gravel path; skulls; twig pumpkin arch; fenced cages","transition from polished village to rough backlot",medium-high
+12:20,13:05,Open field/activity yard,"fenced lanes; rustic booth; barn-like building; giant pumpkin; mountains","keep this zone open and less enclosed",medium
+13:05,13:35,Rope bridge/tent vignette,"rope posts; bridge/railing; canvas tent; ship wheel; rock/water edge","compact set piece between yard and ruins",high
+13:35,14:15,Celtic Ruins approach,"stone arches; white columns; dry creek/rocks; raised wood hall","two-height composition begins here",high
+14:20,15:10,Raised hall interior,"wood entry; dark shelves; candles; tombstone sign; balcony exits","short interior loop overlooking ruins",medium
+15:10,16:40,Ruin courtyard,"balcony; stacked stone walls; columns; fire pit; curved dirt/gravel paths","player should revisit the courtyard below after seeing it from above",high
+16:50,18:20,Olde Town / festival field,"giant pumpkins; tents/yurts; red-striped Big Top; actor clusters","wider dirt/grass field after the tight ruins",high
+18:30,20:50,Vendor return / greenhouse edge,"costume booth; string lights; vendor stalls; green tents; glasshouse; final sign board","return route back toward entry/garden side",medium-high

@@ -1,0 +1,3303 @@
+{
+  "source_video": "https://www.youtube.com/watch?v=tUMoegiI5_Q",
+  "local_video": "Reference/youtube_tUMoegiI5_Q/source_720p.mp4",
+  "sampling": "one full-size still every 2 seconds",
+  "frame_count": 629,
+  "sheet_count": 21,
+  "purpose": "Complete visual pathway coverage for all route segments visible in the walkthrough video.",
+  "warning": "This covers all paths visible in this walkthrough. It does not prove unseen side paths or off-camera areas.",
+  "sheets": [
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_01_00m.jpg",
+      "start_timestamp": "00:00",
+      "end_timestamp": "00:58",
+      "frames": [
+        {
+          "timestamp": "00:00",
+          "seconds": 0,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0001.jpg"
+        },
+        {
+          "timestamp": "00:02",
+          "seconds": 2,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0002.jpg"
+        },
+        {
+          "timestamp": "00:04",
+          "seconds": 4,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0003.jpg"
+        },
+        {
+          "timestamp": "00:06",
+          "seconds": 6,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0004.jpg"
+        },
+        {
+          "timestamp": "00:08",
+          "seconds": 8,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0005.jpg"
+        },
+        {
+          "timestamp": "00:10",
+          "seconds": 10,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0006.jpg"
+        },
+        {
+          "timestamp": "00:12",
+          "seconds": 12,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0007.jpg"
+        },
+        {
+          "timestamp": "00:14",
+          "seconds": 14,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0008.jpg"
+        },
+        {
+          "timestamp": "00:16",
+          "seconds": 16,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0009.jpg"
+        },
+        {
+          "timestamp": "00:18",
+          "seconds": 18,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0010.jpg"
+        },
+        {
+          "timestamp": "00:20",
+          "seconds": 20,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0011.jpg"
+        },
+        {
+          "timestamp": "00:22",
+          "seconds": 22,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0012.jpg"
+        },
+        {
+          "timestamp": "00:24",
+          "seconds": 24,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0013.jpg"
+        },
+        {
+          "timestamp": "00:26",
+          "seconds": 26,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0014.jpg"
+        },
+        {
+          "timestamp": "00:28",
+          "seconds": 28,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0015.jpg"
+        },
+        {
+          "timestamp": "00:30",
+          "seconds": 30,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0016.jpg"
+        },
+        {
+          "timestamp": "00:32",
+          "seconds": 32,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0017.jpg"
+        },
+        {
+          "timestamp": "00:34",
+          "seconds": 34,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0018.jpg"
+        },
+        {
+          "timestamp": "00:36",
+          "seconds": 36,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0019.jpg"
+        },
+        {
+          "timestamp": "00:38",
+          "seconds": 38,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0020.jpg"
+        },
+        {
+          "timestamp": "00:40",
+          "seconds": 40,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0021.jpg"
+        },
+        {
+          "timestamp": "00:42",
+          "seconds": 42,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0022.jpg"
+        },
+        {
+          "timestamp": "00:44",
+          "seconds": 44,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0023.jpg"
+        },
+        {
+          "timestamp": "00:46",
+          "seconds": 46,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0024.jpg"
+        },
+        {
+          "timestamp": "00:48",
+          "seconds": 48,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0025.jpg"
+        },
+        {
+          "timestamp": "00:50",
+          "seconds": 50,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0026.jpg"
+        },
+        {
+          "timestamp": "00:52",
+          "seconds": 52,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0027.jpg"
+        },
+        {
+          "timestamp": "00:54",
+          "seconds": 54,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0028.jpg"
+        },
+        {
+          "timestamp": "00:56",
+          "seconds": 56,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0029.jpg"
+        },
+        {
+          "timestamp": "00:58",
+          "seconds": 58,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0030.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_02_01m.jpg",
+      "start_timestamp": "01:00",
+      "end_timestamp": "01:58",
+      "frames": [
+        {
+          "timestamp": "01:00",
+          "seconds": 60,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0031.jpg"
+        },
+        {
+          "timestamp": "01:02",
+          "seconds": 62,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0032.jpg"
+        },
+        {
+          "timestamp": "01:04",
+          "seconds": 64,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0033.jpg"
+        },
+        {
+          "timestamp": "01:06",
+          "seconds": 66,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0034.jpg"
+        },
+        {
+          "timestamp": "01:08",
+          "seconds": 68,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0035.jpg"
+        },
+        {
+          "timestamp": "01:10",
+          "seconds": 70,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0036.jpg"
+        },
+        {
+          "timestamp": "01:12",
+          "seconds": 72,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0037.jpg"
+        },
+        {
+          "timestamp": "01:14",
+          "seconds": 74,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0038.jpg"
+        },
+        {
+          "timestamp": "01:16",
+          "seconds": 76,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0039.jpg"
+        },
+        {
+          "timestamp": "01:18",
+          "seconds": 78,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0040.jpg"
+        },
+        {
+          "timestamp": "01:20",
+          "seconds": 80,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0041.jpg"
+        },
+        {
+          "timestamp": "01:22",
+          "seconds": 82,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0042.jpg"
+        },
+        {
+          "timestamp": "01:24",
+          "seconds": 84,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0043.jpg"
+        },
+        {
+          "timestamp": "01:26",
+          "seconds": 86,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0044.jpg"
+        },
+        {
+          "timestamp": "01:28",
+          "seconds": 88,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0045.jpg"
+        },
+        {
+          "timestamp": "01:30",
+          "seconds": 90,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0046.jpg"
+        },
+        {
+          "timestamp": "01:32",
+          "seconds": 92,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0047.jpg"
+        },
+        {
+          "timestamp": "01:34",
+          "seconds": 94,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0048.jpg"
+        },
+        {
+          "timestamp": "01:36",
+          "seconds": 96,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0049.jpg"
+        },
+        {
+          "timestamp": "01:38",
+          "seconds": 98,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0050.jpg"
+        },
+        {
+          "timestamp": "01:40",
+          "seconds": 100,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0051.jpg"
+        },
+        {
+          "timestamp": "01:42",
+          "seconds": 102,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0052.jpg"
+        },
+        {
+          "timestamp": "01:44",
+          "seconds": 104,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0053.jpg"
+        },
+        {
+          "timestamp": "01:46",
+          "seconds": 106,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0054.jpg"
+        },
+        {
+          "timestamp": "01:48",
+          "seconds": 108,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0055.jpg"
+        },
+        {
+          "timestamp": "01:50",
+          "seconds": 110,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0056.jpg"
+        },
+        {
+          "timestamp": "01:52",
+          "seconds": 112,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0057.jpg"
+        },
+        {
+          "timestamp": "01:54",
+          "seconds": 114,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0058.jpg"
+        },
+        {
+          "timestamp": "01:56",
+          "seconds": 116,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0059.jpg"
+        },
+        {
+          "timestamp": "01:58",
+          "seconds": 118,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0060.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_03_02m.jpg",
+      "start_timestamp": "02:00",
+      "end_timestamp": "02:58",
+      "frames": [
+        {
+          "timestamp": "02:00",
+          "seconds": 120,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0061.jpg"
+        },
+        {
+          "timestamp": "02:02",
+          "seconds": 122,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0062.jpg"
+        },
+        {
+          "timestamp": "02:04",
+          "seconds": 124,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0063.jpg"
+        },
+        {
+          "timestamp": "02:06",
+          "seconds": 126,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0064.jpg"
+        },
+        {
+          "timestamp": "02:08",
+          "seconds": 128,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0065.jpg"
+        },
+        {
+          "timestamp": "02:10",
+          "seconds": 130,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0066.jpg"
+        },
+        {
+          "timestamp": "02:12",
+          "seconds": 132,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0067.jpg"
+        },
+        {
+          "timestamp": "02:14",
+          "seconds": 134,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0068.jpg"
+        },
+        {
+          "timestamp": "02:16",
+          "seconds": 136,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0069.jpg"
+        },
+        {
+          "timestamp": "02:18",
+          "seconds": 138,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0070.jpg"
+        },
+        {
+          "timestamp": "02:20",
+          "seconds": 140,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0071.jpg"
+        },
+        {
+          "timestamp": "02:22",
+          "seconds": 142,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0072.jpg"
+        },
+        {
+          "timestamp": "02:24",
+          "seconds": 144,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0073.jpg"
+        },
+        {
+          "timestamp": "02:26",
+          "seconds": 146,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0074.jpg"
+        },
+        {
+          "timestamp": "02:28",
+          "seconds": 148,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0075.jpg"
+        },
+        {
+          "timestamp": "02:30",
+          "seconds": 150,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0076.jpg"
+        },
+        {
+          "timestamp": "02:32",
+          "seconds": 152,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0077.jpg"
+        },
+        {
+          "timestamp": "02:34",
+          "seconds": 154,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0078.jpg"
+        },
+        {
+          "timestamp": "02:36",
+          "seconds": 156,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0079.jpg"
+        },
+        {
+          "timestamp": "02:38",
+          "seconds": 158,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0080.jpg"
+        },
+        {
+          "timestamp": "02:40",
+          "seconds": 160,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0081.jpg"
+        },
+        {
+          "timestamp": "02:42",
+          "seconds": 162,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0082.jpg"
+        },
+        {
+          "timestamp": "02:44",
+          "seconds": 164,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0083.jpg"
+        },
+        {
+          "timestamp": "02:46",
+          "seconds": 166,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0084.jpg"
+        },
+        {
+          "timestamp": "02:48",
+          "seconds": 168,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0085.jpg"
+        },
+        {
+          "timestamp": "02:50",
+          "seconds": 170,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0086.jpg"
+        },
+        {
+          "timestamp": "02:52",
+          "seconds": 172,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0087.jpg"
+        },
+        {
+          "timestamp": "02:54",
+          "seconds": 174,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0088.jpg"
+        },
+        {
+          "timestamp": "02:56",
+          "seconds": 176,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0089.jpg"
+        },
+        {
+          "timestamp": "02:58",
+          "seconds": 178,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0090.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_04_03m.jpg",
+      "start_timestamp": "03:00",
+      "end_timestamp": "03:58",
+      "frames": [
+        {
+          "timestamp": "03:00",
+          "seconds": 180,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0091.jpg"
+        },
+        {
+          "timestamp": "03:02",
+          "seconds": 182,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0092.jpg"
+        },
+        {
+          "timestamp": "03:04",
+          "seconds": 184,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0093.jpg"
+        },
+        {
+          "timestamp": "03:06",
+          "seconds": 186,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0094.jpg"
+        },
+        {
+          "timestamp": "03:08",
+          "seconds": 188,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0095.jpg"
+        },
+        {
+          "timestamp": "03:10",
+          "seconds": 190,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0096.jpg"
+        },
+        {
+          "timestamp": "03:12",
+          "seconds": 192,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0097.jpg"
+        },
+        {
+          "timestamp": "03:14",
+          "seconds": 194,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0098.jpg"
+        },
+        {
+          "timestamp": "03:16",
+          "seconds": 196,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0099.jpg"
+        },
+        {
+          "timestamp": "03:18",
+          "seconds": 198,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0100.jpg"
+        },
+        {
+          "timestamp": "03:20",
+          "seconds": 200,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0101.jpg"
+        },
+        {
+          "timestamp": "03:22",
+          "seconds": 202,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0102.jpg"
+        },
+        {
+          "timestamp": "03:24",
+          "seconds": 204,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0103.jpg"
+        },
+        {
+          "timestamp": "03:26",
+          "seconds": 206,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0104.jpg"
+        },
+        {
+          "timestamp": "03:28",
+          "seconds": 208,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0105.jpg"
+        },
+        {
+          "timestamp": "03:30",
+          "seconds": 210,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0106.jpg"
+        },
+        {
+          "timestamp": "03:32",
+          "seconds": 212,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0107.jpg"
+        },
+        {
+          "timestamp": "03:34",
+          "seconds": 214,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0108.jpg"
+        },
+        {
+          "timestamp": "03:36",
+          "seconds": 216,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0109.jpg"
+        },
+        {
+          "timestamp": "03:38",
+          "seconds": 218,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0110.jpg"
+        },
+        {
+          "timestamp": "03:40",
+          "seconds": 220,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0111.jpg"
+        },
+        {
+          "timestamp": "03:42",
+          "seconds": 222,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0112.jpg"
+        },
+        {
+          "timestamp": "03:44",
+          "seconds": 224,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0113.jpg"
+        },
+        {
+          "timestamp": "03:46",
+          "seconds": 226,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0114.jpg"
+        },
+        {
+          "timestamp": "03:48",
+          "seconds": 228,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0115.jpg"
+        },
+        {
+          "timestamp": "03:50",
+          "seconds": 230,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0116.jpg"
+        },
+        {
+          "timestamp": "03:52",
+          "seconds": 232,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0117.jpg"
+        },
+        {
+          "timestamp": "03:54",
+          "seconds": 234,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0118.jpg"
+        },
+        {
+          "timestamp": "03:56",
+          "seconds": 236,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0119.jpg"
+        },
+        {
+          "timestamp": "03:58",
+          "seconds": 238,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0120.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_05_04m.jpg",
+      "start_timestamp": "04:00",
+      "end_timestamp": "04:58",
+      "frames": [
+        {
+          "timestamp": "04:00",
+          "seconds": 240,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0121.jpg"
+        },
+        {
+          "timestamp": "04:02",
+          "seconds": 242,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0122.jpg"
+        },
+        {
+          "timestamp": "04:04",
+          "seconds": 244,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0123.jpg"
+        },
+        {
+          "timestamp": "04:06",
+          "seconds": 246,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0124.jpg"
+        },
+        {
+          "timestamp": "04:08",
+          "seconds": 248,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0125.jpg"
+        },
+        {
+          "timestamp": "04:10",
+          "seconds": 250,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0126.jpg"
+        },
+        {
+          "timestamp": "04:12",
+          "seconds": 252,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0127.jpg"
+        },
+        {
+          "timestamp": "04:14",
+          "seconds": 254,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0128.jpg"
+        },
+        {
+          "timestamp": "04:16",
+          "seconds": 256,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0129.jpg"
+        },
+        {
+          "timestamp": "04:18",
+          "seconds": 258,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0130.jpg"
+        },
+        {
+          "timestamp": "04:20",
+          "seconds": 260,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0131.jpg"
+        },
+        {
+          "timestamp": "04:22",
+          "seconds": 262,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0132.jpg"
+        },
+        {
+          "timestamp": "04:24",
+          "seconds": 264,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0133.jpg"
+        },
+        {
+          "timestamp": "04:26",
+          "seconds": 266,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0134.jpg"
+        },
+        {
+          "timestamp": "04:28",
+          "seconds": 268,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0135.jpg"
+        },
+        {
+          "timestamp": "04:30",
+          "seconds": 270,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0136.jpg"
+        },
+        {
+          "timestamp": "04:32",
+          "seconds": 272,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0137.jpg"
+        },
+        {
+          "timestamp": "04:34",
+          "seconds": 274,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0138.jpg"
+        },
+        {
+          "timestamp": "04:36",
+          "seconds": 276,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0139.jpg"
+        },
+        {
+          "timestamp": "04:38",
+          "seconds": 278,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0140.jpg"
+        },
+        {
+          "timestamp": "04:40",
+          "seconds": 280,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0141.jpg"
+        },
+        {
+          "timestamp": "04:42",
+          "seconds": 282,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0142.jpg"
+        },
+        {
+          "timestamp": "04:44",
+          "seconds": 284,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0143.jpg"
+        },
+        {
+          "timestamp": "04:46",
+          "seconds": 286,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0144.jpg"
+        },
+        {
+          "timestamp": "04:48",
+          "seconds": 288,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0145.jpg"
+        },
+        {
+          "timestamp": "04:50",
+          "seconds": 290,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0146.jpg"
+        },
+        {
+          "timestamp": "04:52",
+          "seconds": 292,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0147.jpg"
+        },
+        {
+          "timestamp": "04:54",
+          "seconds": 294,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0148.jpg"
+        },
+        {
+          "timestamp": "04:56",
+          "seconds": 296,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0149.jpg"
+        },
+        {
+          "timestamp": "04:58",
+          "seconds": 298,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0150.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_06_05m.jpg",
+      "start_timestamp": "05:00",
+      "end_timestamp": "05:58",
+      "frames": [
+        {
+          "timestamp": "05:00",
+          "seconds": 300,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0151.jpg"
+        },
+        {
+          "timestamp": "05:02",
+          "seconds": 302,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0152.jpg"
+        },
+        {
+          "timestamp": "05:04",
+          "seconds": 304,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0153.jpg"
+        },
+        {
+          "timestamp": "05:06",
+          "seconds": 306,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0154.jpg"
+        },
+        {
+          "timestamp": "05:08",
+          "seconds": 308,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0155.jpg"
+        },
+        {
+          "timestamp": "05:10",
+          "seconds": 310,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0156.jpg"
+        },
+        {
+          "timestamp": "05:12",
+          "seconds": 312,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0157.jpg"
+        },
+        {
+          "timestamp": "05:14",
+          "seconds": 314,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0158.jpg"
+        },
+        {
+          "timestamp": "05:16",
+          "seconds": 316,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0159.jpg"
+        },
+        {
+          "timestamp": "05:18",
+          "seconds": 318,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0160.jpg"
+        },
+        {
+          "timestamp": "05:20",
+          "seconds": 320,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0161.jpg"
+        },
+        {
+          "timestamp": "05:22",
+          "seconds": 322,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0162.jpg"
+        },
+        {
+          "timestamp": "05:24",
+          "seconds": 324,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0163.jpg"
+        },
+        {
+          "timestamp": "05:26",
+          "seconds": 326,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0164.jpg"
+        },
+        {
+          "timestamp": "05:28",
+          "seconds": 328,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0165.jpg"
+        },
+        {
+          "timestamp": "05:30",
+          "seconds": 330,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0166.jpg"
+        },
+        {
+          "timestamp": "05:32",
+          "seconds": 332,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0167.jpg"
+        },
+        {
+          "timestamp": "05:34",
+          "seconds": 334,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0168.jpg"
+        },
+        {
+          "timestamp": "05:36",
+          "seconds": 336,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0169.jpg"
+        },
+        {
+          "timestamp": "05:38",
+          "seconds": 338,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0170.jpg"
+        },
+        {
+          "timestamp": "05:40",
+          "seconds": 340,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0171.jpg"
+        },
+        {
+          "timestamp": "05:42",
+          "seconds": 342,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0172.jpg"
+        },
+        {
+          "timestamp": "05:44",
+          "seconds": 344,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0173.jpg"
+        },
+        {
+          "timestamp": "05:46",
+          "seconds": 346,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0174.jpg"
+        },
+        {
+          "timestamp": "05:48",
+          "seconds": 348,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0175.jpg"
+        },
+        {
+          "timestamp": "05:50",
+          "seconds": 350,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0176.jpg"
+        },
+        {
+          "timestamp": "05:52",
+          "seconds": 352,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0177.jpg"
+        },
+        {
+          "timestamp": "05:54",
+          "seconds": 354,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0178.jpg"
+        },
+        {
+          "timestamp": "05:56",
+          "seconds": 356,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0179.jpg"
+        },
+        {
+          "timestamp": "05:58",
+          "seconds": 358,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0180.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_07_06m.jpg",
+      "start_timestamp": "06:00",
+      "end_timestamp": "06:58",
+      "frames": [
+        {
+          "timestamp": "06:00",
+          "seconds": 360,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0181.jpg"
+        },
+        {
+          "timestamp": "06:02",
+          "seconds": 362,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0182.jpg"
+        },
+        {
+          "timestamp": "06:04",
+          "seconds": 364,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0183.jpg"
+        },
+        {
+          "timestamp": "06:06",
+          "seconds": 366,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0184.jpg"
+        },
+        {
+          "timestamp": "06:08",
+          "seconds": 368,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0185.jpg"
+        },
+        {
+          "timestamp": "06:10",
+          "seconds": 370,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0186.jpg"
+        },
+        {
+          "timestamp": "06:12",
+          "seconds": 372,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0187.jpg"
+        },
+        {
+          "timestamp": "06:14",
+          "seconds": 374,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0188.jpg"
+        },
+        {
+          "timestamp": "06:16",
+          "seconds": 376,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0189.jpg"
+        },
+        {
+          "timestamp": "06:18",
+          "seconds": 378,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0190.jpg"
+        },
+        {
+          "timestamp": "06:20",
+          "seconds": 380,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0191.jpg"
+        },
+        {
+          "timestamp": "06:22",
+          "seconds": 382,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0192.jpg"
+        },
+        {
+          "timestamp": "06:24",
+          "seconds": 384,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0193.jpg"
+        },
+        {
+          "timestamp": "06:26",
+          "seconds": 386,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0194.jpg"
+        },
+        {
+          "timestamp": "06:28",
+          "seconds": 388,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0195.jpg"
+        },
+        {
+          "timestamp": "06:30",
+          "seconds": 390,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0196.jpg"
+        },
+        {
+          "timestamp": "06:32",
+          "seconds": 392,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0197.jpg"
+        },
+        {
+          "timestamp": "06:34",
+          "seconds": 394,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0198.jpg"
+        },
+        {
+          "timestamp": "06:36",
+          "seconds": 396,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0199.jpg"
+        },
+        {
+          "timestamp": "06:38",
+          "seconds": 398,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0200.jpg"
+        },
+        {
+          "timestamp": "06:40",
+          "seconds": 400,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0201.jpg"
+        },
+        {
+          "timestamp": "06:42",
+          "seconds": 402,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0202.jpg"
+        },
+        {
+          "timestamp": "06:44",
+          "seconds": 404,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0203.jpg"
+        },
+        {
+          "timestamp": "06:46",
+          "seconds": 406,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0204.jpg"
+        },
+        {
+          "timestamp": "06:48",
+          "seconds": 408,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0205.jpg"
+        },
+        {
+          "timestamp": "06:50",
+          "seconds": 410,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0206.jpg"
+        },
+        {
+          "timestamp": "06:52",
+          "seconds": 412,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0207.jpg"
+        },
+        {
+          "timestamp": "06:54",
+          "seconds": 414,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0208.jpg"
+        },
+        {
+          "timestamp": "06:56",
+          "seconds": 416,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0209.jpg"
+        },
+        {
+          "timestamp": "06:58",
+          "seconds": 418,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0210.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_08_07m.jpg",
+      "start_timestamp": "07:00",
+      "end_timestamp": "07:58",
+      "frames": [
+        {
+          "timestamp": "07:00",
+          "seconds": 420,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0211.jpg"
+        },
+        {
+          "timestamp": "07:02",
+          "seconds": 422,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0212.jpg"
+        },
+        {
+          "timestamp": "07:04",
+          "seconds": 424,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0213.jpg"
+        },
+        {
+          "timestamp": "07:06",
+          "seconds": 426,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0214.jpg"
+        },
+        {
+          "timestamp": "07:08",
+          "seconds": 428,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0215.jpg"
+        },
+        {
+          "timestamp": "07:10",
+          "seconds": 430,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0216.jpg"
+        },
+        {
+          "timestamp": "07:12",
+          "seconds": 432,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0217.jpg"
+        },
+        {
+          "timestamp": "07:14",
+          "seconds": 434,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0218.jpg"
+        },
+        {
+          "timestamp": "07:16",
+          "seconds": 436,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0219.jpg"
+        },
+        {
+          "timestamp": "07:18",
+          "seconds": 438,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0220.jpg"
+        },
+        {
+          "timestamp": "07:20",
+          "seconds": 440,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0221.jpg"
+        },
+        {
+          "timestamp": "07:22",
+          "seconds": 442,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0222.jpg"
+        },
+        {
+          "timestamp": "07:24",
+          "seconds": 444,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0223.jpg"
+        },
+        {
+          "timestamp": "07:26",
+          "seconds": 446,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0224.jpg"
+        },
+        {
+          "timestamp": "07:28",
+          "seconds": 448,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0225.jpg"
+        },
+        {
+          "timestamp": "07:30",
+          "seconds": 450,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0226.jpg"
+        },
+        {
+          "timestamp": "07:32",
+          "seconds": 452,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0227.jpg"
+        },
+        {
+          "timestamp": "07:34",
+          "seconds": 454,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0228.jpg"
+        },
+        {
+          "timestamp": "07:36",
+          "seconds": 456,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0229.jpg"
+        },
+        {
+          "timestamp": "07:38",
+          "seconds": 458,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0230.jpg"
+        },
+        {
+          "timestamp": "07:40",
+          "seconds": 460,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0231.jpg"
+        },
+        {
+          "timestamp": "07:42",
+          "seconds": 462,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0232.jpg"
+        },
+        {
+          "timestamp": "07:44",
+          "seconds": 464,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0233.jpg"
+        },
+        {
+          "timestamp": "07:46",
+          "seconds": 466,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0234.jpg"
+        },
+        {
+          "timestamp": "07:48",
+          "seconds": 468,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0235.jpg"
+        },
+        {
+          "timestamp": "07:50",
+          "seconds": 470,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0236.jpg"
+        },
+        {
+          "timestamp": "07:52",
+          "seconds": 472,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0237.jpg"
+        },
+        {
+          "timestamp": "07:54",
+          "seconds": 474,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0238.jpg"
+        },
+        {
+          "timestamp": "07:56",
+          "seconds": 476,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0239.jpg"
+        },
+        {
+          "timestamp": "07:58",
+          "seconds": 478,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0240.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_09_08m.jpg",
+      "start_timestamp": "08:00",
+      "end_timestamp": "08:58",
+      "frames": [
+        {
+          "timestamp": "08:00",
+          "seconds": 480,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0241.jpg"
+        },
+        {
+          "timestamp": "08:02",
+          "seconds": 482,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0242.jpg"
+        },
+        {
+          "timestamp": "08:04",
+          "seconds": 484,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0243.jpg"
+        },
+        {
+          "timestamp": "08:06",
+          "seconds": 486,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0244.jpg"
+        },
+        {
+          "timestamp": "08:08",
+          "seconds": 488,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0245.jpg"
+        },
+        {
+          "timestamp": "08:10",
+          "seconds": 490,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0246.jpg"
+        },
+        {
+          "timestamp": "08:12",
+          "seconds": 492,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0247.jpg"
+        },
+        {
+          "timestamp": "08:14",
+          "seconds": 494,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0248.jpg"
+        },
+        {
+          "timestamp": "08:16",
+          "seconds": 496,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0249.jpg"
+        },
+        {
+          "timestamp": "08:18",
+          "seconds": 498,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0250.jpg"
+        },
+        {
+          "timestamp": "08:20",
+          "seconds": 500,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0251.jpg"
+        },
+        {
+          "timestamp": "08:22",
+          "seconds": 502,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0252.jpg"
+        },
+        {
+          "timestamp": "08:24",
+          "seconds": 504,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0253.jpg"
+        },
+        {
+          "timestamp": "08:26",
+          "seconds": 506,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0254.jpg"
+        },
+        {
+          "timestamp": "08:28",
+          "seconds": 508,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0255.jpg"
+        },
+        {
+          "timestamp": "08:30",
+          "seconds": 510,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0256.jpg"
+        },
+        {
+          "timestamp": "08:32",
+          "seconds": 512,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0257.jpg"
+        },
+        {
+          "timestamp": "08:34",
+          "seconds": 514,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0258.jpg"
+        },
+        {
+          "timestamp": "08:36",
+          "seconds": 516,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0259.jpg"
+        },
+        {
+          "timestamp": "08:38",
+          "seconds": 518,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0260.jpg"
+        },
+        {
+          "timestamp": "08:40",
+          "seconds": 520,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0261.jpg"
+        },
+        {
+          "timestamp": "08:42",
+          "seconds": 522,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0262.jpg"
+        },
+        {
+          "timestamp": "08:44",
+          "seconds": 524,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0263.jpg"
+        },
+        {
+          "timestamp": "08:46",
+          "seconds": 526,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0264.jpg"
+        },
+        {
+          "timestamp": "08:48",
+          "seconds": 528,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0265.jpg"
+        },
+        {
+          "timestamp": "08:50",
+          "seconds": 530,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0266.jpg"
+        },
+        {
+          "timestamp": "08:52",
+          "seconds": 532,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0267.jpg"
+        },
+        {
+          "timestamp": "08:54",
+          "seconds": 534,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0268.jpg"
+        },
+        {
+          "timestamp": "08:56",
+          "seconds": 536,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0269.jpg"
+        },
+        {
+          "timestamp": "08:58",
+          "seconds": 538,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0270.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_10_09m.jpg",
+      "start_timestamp": "09:00",
+      "end_timestamp": "09:58",
+      "frames": [
+        {
+          "timestamp": "09:00",
+          "seconds": 540,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0271.jpg"
+        },
+        {
+          "timestamp": "09:02",
+          "seconds": 542,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0272.jpg"
+        },
+        {
+          "timestamp": "09:04",
+          "seconds": 544,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0273.jpg"
+        },
+        {
+          "timestamp": "09:06",
+          "seconds": 546,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0274.jpg"
+        },
+        {
+          "timestamp": "09:08",
+          "seconds": 548,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0275.jpg"
+        },
+        {
+          "timestamp": "09:10",
+          "seconds": 550,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0276.jpg"
+        },
+        {
+          "timestamp": "09:12",
+          "seconds": 552,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0277.jpg"
+        },
+        {
+          "timestamp": "09:14",
+          "seconds": 554,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0278.jpg"
+        },
+        {
+          "timestamp": "09:16",
+          "seconds": 556,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0279.jpg"
+        },
+        {
+          "timestamp": "09:18",
+          "seconds": 558,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0280.jpg"
+        },
+        {
+          "timestamp": "09:20",
+          "seconds": 560,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0281.jpg"
+        },
+        {
+          "timestamp": "09:22",
+          "seconds": 562,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0282.jpg"
+        },
+        {
+          "timestamp": "09:24",
+          "seconds": 564,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0283.jpg"
+        },
+        {
+          "timestamp": "09:26",
+          "seconds": 566,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0284.jpg"
+        },
+        {
+          "timestamp": "09:28",
+          "seconds": 568,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0285.jpg"
+        },
+        {
+          "timestamp": "09:30",
+          "seconds": 570,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0286.jpg"
+        },
+        {
+          "timestamp": "09:32",
+          "seconds": 572,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0287.jpg"
+        },
+        {
+          "timestamp": "09:34",
+          "seconds": 574,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0288.jpg"
+        },
+        {
+          "timestamp": "09:36",
+          "seconds": 576,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0289.jpg"
+        },
+        {
+          "timestamp": "09:38",
+          "seconds": 578,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0290.jpg"
+        },
+        {
+          "timestamp": "09:40",
+          "seconds": 580,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0291.jpg"
+        },
+        {
+          "timestamp": "09:42",
+          "seconds": 582,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0292.jpg"
+        },
+        {
+          "timestamp": "09:44",
+          "seconds": 584,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0293.jpg"
+        },
+        {
+          "timestamp": "09:46",
+          "seconds": 586,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0294.jpg"
+        },
+        {
+          "timestamp": "09:48",
+          "seconds": 588,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0295.jpg"
+        },
+        {
+          "timestamp": "09:50",
+          "seconds": 590,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0296.jpg"
+        },
+        {
+          "timestamp": "09:52",
+          "seconds": 592,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0297.jpg"
+        },
+        {
+          "timestamp": "09:54",
+          "seconds": 594,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0298.jpg"
+        },
+        {
+          "timestamp": "09:56",
+          "seconds": 596,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0299.jpg"
+        },
+        {
+          "timestamp": "09:58",
+          "seconds": 598,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0300.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_11_10m.jpg",
+      "start_timestamp": "10:00",
+      "end_timestamp": "10:58",
+      "frames": [
+        {
+          "timestamp": "10:00",
+          "seconds": 600,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0301.jpg"
+        },
+        {
+          "timestamp": "10:02",
+          "seconds": 602,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0302.jpg"
+        },
+        {
+          "timestamp": "10:04",
+          "seconds": 604,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0303.jpg"
+        },
+        {
+          "timestamp": "10:06",
+          "seconds": 606,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0304.jpg"
+        },
+        {
+          "timestamp": "10:08",
+          "seconds": 608,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0305.jpg"
+        },
+        {
+          "timestamp": "10:10",
+          "seconds": 610,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0306.jpg"
+        },
+        {
+          "timestamp": "10:12",
+          "seconds": 612,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0307.jpg"
+        },
+        {
+          "timestamp": "10:14",
+          "seconds": 614,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0308.jpg"
+        },
+        {
+          "timestamp": "10:16",
+          "seconds": 616,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0309.jpg"
+        },
+        {
+          "timestamp": "10:18",
+          "seconds": 618,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0310.jpg"
+        },
+        {
+          "timestamp": "10:20",
+          "seconds": 620,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0311.jpg"
+        },
+        {
+          "timestamp": "10:22",
+          "seconds": 622,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0312.jpg"
+        },
+        {
+          "timestamp": "10:24",
+          "seconds": 624,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0313.jpg"
+        },
+        {
+          "timestamp": "10:26",
+          "seconds": 626,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0314.jpg"
+        },
+        {
+          "timestamp": "10:28",
+          "seconds": 628,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0315.jpg"
+        },
+        {
+          "timestamp": "10:30",
+          "seconds": 630,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0316.jpg"
+        },
+        {
+          "timestamp": "10:32",
+          "seconds": 632,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0317.jpg"
+        },
+        {
+          "timestamp": "10:34",
+          "seconds": 634,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0318.jpg"
+        },
+        {
+          "timestamp": "10:36",
+          "seconds": 636,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0319.jpg"
+        },
+        {
+          "timestamp": "10:38",
+          "seconds": 638,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0320.jpg"
+        },
+        {
+          "timestamp": "10:40",
+          "seconds": 640,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0321.jpg"
+        },
+        {
+          "timestamp": "10:42",
+          "seconds": 642,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0322.jpg"
+        },
+        {
+          "timestamp": "10:44",
+          "seconds": 644,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0323.jpg"
+        },
+        {
+          "timestamp": "10:46",
+          "seconds": 646,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0324.jpg"
+        },
+        {
+          "timestamp": "10:48",
+          "seconds": 648,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0325.jpg"
+        },
+        {
+          "timestamp": "10:50",
+          "seconds": 650,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0326.jpg"
+        },
+        {
+          "timestamp": "10:52",
+          "seconds": 652,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0327.jpg"
+        },
+        {
+          "timestamp": "10:54",
+          "seconds": 654,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0328.jpg"
+        },
+        {
+          "timestamp": "10:56",
+          "seconds": 656,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0329.jpg"
+        },
+        {
+          "timestamp": "10:58",
+          "seconds": 658,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0330.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_12_11m.jpg",
+      "start_timestamp": "11:00",
+      "end_timestamp": "11:58",
+      "frames": [
+        {
+          "timestamp": "11:00",
+          "seconds": 660,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0331.jpg"
+        },
+        {
+          "timestamp": "11:02",
+          "seconds": 662,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0332.jpg"
+        },
+        {
+          "timestamp": "11:04",
+          "seconds": 664,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0333.jpg"
+        },
+        {
+          "timestamp": "11:06",
+          "seconds": 666,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0334.jpg"
+        },
+        {
+          "timestamp": "11:08",
+          "seconds": 668,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0335.jpg"
+        },
+        {
+          "timestamp": "11:10",
+          "seconds": 670,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0336.jpg"
+        },
+        {
+          "timestamp": "11:12",
+          "seconds": 672,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0337.jpg"
+        },
+        {
+          "timestamp": "11:14",
+          "seconds": 674,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0338.jpg"
+        },
+        {
+          "timestamp": "11:16",
+          "seconds": 676,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0339.jpg"
+        },
+        {
+          "timestamp": "11:18",
+          "seconds": 678,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0340.jpg"
+        },
+        {
+          "timestamp": "11:20",
+          "seconds": 680,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0341.jpg"
+        },
+        {
+          "timestamp": "11:22",
+          "seconds": 682,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0342.jpg"
+        },
+        {
+          "timestamp": "11:24",
+          "seconds": 684,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0343.jpg"
+        },
+        {
+          "timestamp": "11:26",
+          "seconds": 686,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0344.jpg"
+        },
+        {
+          "timestamp": "11:28",
+          "seconds": 688,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0345.jpg"
+        },
+        {
+          "timestamp": "11:30",
+          "seconds": 690,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0346.jpg"
+        },
+        {
+          "timestamp": "11:32",
+          "seconds": 692,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0347.jpg"
+        },
+        {
+          "timestamp": "11:34",
+          "seconds": 694,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0348.jpg"
+        },
+        {
+          "timestamp": "11:36",
+          "seconds": 696,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0349.jpg"
+        },
+        {
+          "timestamp": "11:38",
+          "seconds": 698,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0350.jpg"
+        },
+        {
+          "timestamp": "11:40",
+          "seconds": 700,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0351.jpg"
+        },
+        {
+          "timestamp": "11:42",
+          "seconds": 702,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0352.jpg"
+        },
+        {
+          "timestamp": "11:44",
+          "seconds": 704,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0353.jpg"
+        },
+        {
+          "timestamp": "11:46",
+          "seconds": 706,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0354.jpg"
+        },
+        {
+          "timestamp": "11:48",
+          "seconds": 708,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0355.jpg"
+        },
+        {
+          "timestamp": "11:50",
+          "seconds": 710,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0356.jpg"
+        },
+        {
+          "timestamp": "11:52",
+          "seconds": 712,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0357.jpg"
+        },
+        {
+          "timestamp": "11:54",
+          "seconds": 714,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0358.jpg"
+        },
+        {
+          "timestamp": "11:56",
+          "seconds": 716,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0359.jpg"
+        },
+        {
+          "timestamp": "11:58",
+          "seconds": 718,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0360.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_13_12m.jpg",
+      "start_timestamp": "12:00",
+      "end_timestamp": "12:58",
+      "frames": [
+        {
+          "timestamp": "12:00",
+          "seconds": 720,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0361.jpg"
+        },
+        {
+          "timestamp": "12:02",
+          "seconds": 722,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0362.jpg"
+        },
+        {
+          "timestamp": "12:04",
+          "seconds": 724,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0363.jpg"
+        },
+        {
+          "timestamp": "12:06",
+          "seconds": 726,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0364.jpg"
+        },
+        {
+          "timestamp": "12:08",
+          "seconds": 728,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0365.jpg"
+        },
+        {
+          "timestamp": "12:10",
+          "seconds": 730,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0366.jpg"
+        },
+        {
+          "timestamp": "12:12",
+          "seconds": 732,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0367.jpg"
+        },
+        {
+          "timestamp": "12:14",
+          "seconds": 734,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0368.jpg"
+        },
+        {
+          "timestamp": "12:16",
+          "seconds": 736,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0369.jpg"
+        },
+        {
+          "timestamp": "12:18",
+          "seconds": 738,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0370.jpg"
+        },
+        {
+          "timestamp": "12:20",
+          "seconds": 740,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0371.jpg"
+        },
+        {
+          "timestamp": "12:22",
+          "seconds": 742,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0372.jpg"
+        },
+        {
+          "timestamp": "12:24",
+          "seconds": 744,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0373.jpg"
+        },
+        {
+          "timestamp": "12:26",
+          "seconds": 746,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0374.jpg"
+        },
+        {
+          "timestamp": "12:28",
+          "seconds": 748,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0375.jpg"
+        },
+        {
+          "timestamp": "12:30",
+          "seconds": 750,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0376.jpg"
+        },
+        {
+          "timestamp": "12:32",
+          "seconds": 752,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0377.jpg"
+        },
+        {
+          "timestamp": "12:34",
+          "seconds": 754,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0378.jpg"
+        },
+        {
+          "timestamp": "12:36",
+          "seconds": 756,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0379.jpg"
+        },
+        {
+          "timestamp": "12:38",
+          "seconds": 758,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0380.jpg"
+        },
+        {
+          "timestamp": "12:40",
+          "seconds": 760,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0381.jpg"
+        },
+        {
+          "timestamp": "12:42",
+          "seconds": 762,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0382.jpg"
+        },
+        {
+          "timestamp": "12:44",
+          "seconds": 764,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0383.jpg"
+        },
+        {
+          "timestamp": "12:46",
+          "seconds": 766,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0384.jpg"
+        },
+        {
+          "timestamp": "12:48",
+          "seconds": 768,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0385.jpg"
+        },
+        {
+          "timestamp": "12:50",
+          "seconds": 770,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0386.jpg"
+        },
+        {
+          "timestamp": "12:52",
+          "seconds": 772,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0387.jpg"
+        },
+        {
+          "timestamp": "12:54",
+          "seconds": 774,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0388.jpg"
+        },
+        {
+          "timestamp": "12:56",
+          "seconds": 776,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0389.jpg"
+        },
+        {
+          "timestamp": "12:58",
+          "seconds": 778,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0390.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_14_13m.jpg",
+      "start_timestamp": "13:00",
+      "end_timestamp": "13:58",
+      "frames": [
+        {
+          "timestamp": "13:00",
+          "seconds": 780,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0391.jpg"
+        },
+        {
+          "timestamp": "13:02",
+          "seconds": 782,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0392.jpg"
+        },
+        {
+          "timestamp": "13:04",
+          "seconds": 784,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0393.jpg"
+        },
+        {
+          "timestamp": "13:06",
+          "seconds": 786,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0394.jpg"
+        },
+        {
+          "timestamp": "13:08",
+          "seconds": 788,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0395.jpg"
+        },
+        {
+          "timestamp": "13:10",
+          "seconds": 790,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0396.jpg"
+        },
+        {
+          "timestamp": "13:12",
+          "seconds": 792,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0397.jpg"
+        },
+        {
+          "timestamp": "13:14",
+          "seconds": 794,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0398.jpg"
+        },
+        {
+          "timestamp": "13:16",
+          "seconds": 796,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0399.jpg"
+        },
+        {
+          "timestamp": "13:18",
+          "seconds": 798,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0400.jpg"
+        },
+        {
+          "timestamp": "13:20",
+          "seconds": 800,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0401.jpg"
+        },
+        {
+          "timestamp": "13:22",
+          "seconds": 802,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0402.jpg"
+        },
+        {
+          "timestamp": "13:24",
+          "seconds": 804,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0403.jpg"
+        },
+        {
+          "timestamp": "13:26",
+          "seconds": 806,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0404.jpg"
+        },
+        {
+          "timestamp": "13:28",
+          "seconds": 808,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0405.jpg"
+        },
+        {
+          "timestamp": "13:30",
+          "seconds": 810,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0406.jpg"
+        },
+        {
+          "timestamp": "13:32",
+          "seconds": 812,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0407.jpg"
+        },
+        {
+          "timestamp": "13:34",
+          "seconds": 814,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0408.jpg"
+        },
+        {
+          "timestamp": "13:36",
+          "seconds": 816,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0409.jpg"
+        },
+        {
+          "timestamp": "13:38",
+          "seconds": 818,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0410.jpg"
+        },
+        {
+          "timestamp": "13:40",
+          "seconds": 820,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0411.jpg"
+        },
+        {
+          "timestamp": "13:42",
+          "seconds": 822,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0412.jpg"
+        },
+        {
+          "timestamp": "13:44",
+          "seconds": 824,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0413.jpg"
+        },
+        {
+          "timestamp": "13:46",
+          "seconds": 826,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0414.jpg"
+        },
+        {
+          "timestamp": "13:48",
+          "seconds": 828,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0415.jpg"
+        },
+        {
+          "timestamp": "13:50",
+          "seconds": 830,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0416.jpg"
+        },
+        {
+          "timestamp": "13:52",
+          "seconds": 832,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0417.jpg"
+        },
+        {
+          "timestamp": "13:54",
+          "seconds": 834,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0418.jpg"
+        },
+        {
+          "timestamp": "13:56",
+          "seconds": 836,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0419.jpg"
+        },
+        {
+          "timestamp": "13:58",
+          "seconds": 838,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0420.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_15_14m.jpg",
+      "start_timestamp": "14:00",
+      "end_timestamp": "14:58",
+      "frames": [
+        {
+          "timestamp": "14:00",
+          "seconds": 840,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0421.jpg"
+        },
+        {
+          "timestamp": "14:02",
+          "seconds": 842,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0422.jpg"
+        },
+        {
+          "timestamp": "14:04",
+          "seconds": 844,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0423.jpg"
+        },
+        {
+          "timestamp": "14:06",
+          "seconds": 846,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0424.jpg"
+        },
+        {
+          "timestamp": "14:08",
+          "seconds": 848,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0425.jpg"
+        },
+        {
+          "timestamp": "14:10",
+          "seconds": 850,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0426.jpg"
+        },
+        {
+          "timestamp": "14:12",
+          "seconds": 852,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0427.jpg"
+        },
+        {
+          "timestamp": "14:14",
+          "seconds": 854,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0428.jpg"
+        },
+        {
+          "timestamp": "14:16",
+          "seconds": 856,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0429.jpg"
+        },
+        {
+          "timestamp": "14:18",
+          "seconds": 858,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0430.jpg"
+        },
+        {
+          "timestamp": "14:20",
+          "seconds": 860,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0431.jpg"
+        },
+        {
+          "timestamp": "14:22",
+          "seconds": 862,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0432.jpg"
+        },
+        {
+          "timestamp": "14:24",
+          "seconds": 864,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0433.jpg"
+        },
+        {
+          "timestamp": "14:26",
+          "seconds": 866,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0434.jpg"
+        },
+        {
+          "timestamp": "14:28",
+          "seconds": 868,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0435.jpg"
+        },
+        {
+          "timestamp": "14:30",
+          "seconds": 870,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0436.jpg"
+        },
+        {
+          "timestamp": "14:32",
+          "seconds": 872,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0437.jpg"
+        },
+        {
+          "timestamp": "14:34",
+          "seconds": 874,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0438.jpg"
+        },
+        {
+          "timestamp": "14:36",
+          "seconds": 876,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0439.jpg"
+        },
+        {
+          "timestamp": "14:38",
+          "seconds": 878,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0440.jpg"
+        },
+        {
+          "timestamp": "14:40",
+          "seconds": 880,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0441.jpg"
+        },
+        {
+          "timestamp": "14:42",
+          "seconds": 882,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0442.jpg"
+        },
+        {
+          "timestamp": "14:44",
+          "seconds": 884,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0443.jpg"
+        },
+        {
+          "timestamp": "14:46",
+          "seconds": 886,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0444.jpg"
+        },
+        {
+          "timestamp": "14:48",
+          "seconds": 888,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0445.jpg"
+        },
+        {
+          "timestamp": "14:50",
+          "seconds": 890,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0446.jpg"
+        },
+        {
+          "timestamp": "14:52",
+          "seconds": 892,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0447.jpg"
+        },
+        {
+          "timestamp": "14:54",
+          "seconds": 894,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0448.jpg"
+        },
+        {
+          "timestamp": "14:56",
+          "seconds": 896,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0449.jpg"
+        },
+        {
+          "timestamp": "14:58",
+          "seconds": 898,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0450.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_16_15m.jpg",
+      "start_timestamp": "15:00",
+      "end_timestamp": "15:58",
+      "frames": [
+        {
+          "timestamp": "15:00",
+          "seconds": 900,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0451.jpg"
+        },
+        {
+          "timestamp": "15:02",
+          "seconds": 902,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0452.jpg"
+        },
+        {
+          "timestamp": "15:04",
+          "seconds": 904,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0453.jpg"
+        },
+        {
+          "timestamp": "15:06",
+          "seconds": 906,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0454.jpg"
+        },
+        {
+          "timestamp": "15:08",
+          "seconds": 908,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0455.jpg"
+        },
+        {
+          "timestamp": "15:10",
+          "seconds": 910,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0456.jpg"
+        },
+        {
+          "timestamp": "15:12",
+          "seconds": 912,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0457.jpg"
+        },
+        {
+          "timestamp": "15:14",
+          "seconds": 914,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0458.jpg"
+        },
+        {
+          "timestamp": "15:16",
+          "seconds": 916,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0459.jpg"
+        },
+        {
+          "timestamp": "15:18",
+          "seconds": 918,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0460.jpg"
+        },
+        {
+          "timestamp": "15:20",
+          "seconds": 920,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0461.jpg"
+        },
+        {
+          "timestamp": "15:22",
+          "seconds": 922,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0462.jpg"
+        },
+        {
+          "timestamp": "15:24",
+          "seconds": 924,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0463.jpg"
+        },
+        {
+          "timestamp": "15:26",
+          "seconds": 926,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0464.jpg"
+        },
+        {
+          "timestamp": "15:28",
+          "seconds": 928,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0465.jpg"
+        },
+        {
+          "timestamp": "15:30",
+          "seconds": 930,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0466.jpg"
+        },
+        {
+          "timestamp": "15:32",
+          "seconds": 932,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0467.jpg"
+        },
+        {
+          "timestamp": "15:34",
+          "seconds": 934,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0468.jpg"
+        },
+        {
+          "timestamp": "15:36",
+          "seconds": 936,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0469.jpg"
+        },
+        {
+          "timestamp": "15:38",
+          "seconds": 938,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0470.jpg"
+        },
+        {
+          "timestamp": "15:40",
+          "seconds": 940,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0471.jpg"
+        },
+        {
+          "timestamp": "15:42",
+          "seconds": 942,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0472.jpg"
+        },
+        {
+          "timestamp": "15:44",
+          "seconds": 944,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0473.jpg"
+        },
+        {
+          "timestamp": "15:46",
+          "seconds": 946,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0474.jpg"
+        },
+        {
+          "timestamp": "15:48",
+          "seconds": 948,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0475.jpg"
+        },
+        {
+          "timestamp": "15:50",
+          "seconds": 950,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0476.jpg"
+        },
+        {
+          "timestamp": "15:52",
+          "seconds": 952,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0477.jpg"
+        },
+        {
+          "timestamp": "15:54",
+          "seconds": 954,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0478.jpg"
+        },
+        {
+          "timestamp": "15:56",
+          "seconds": 956,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0479.jpg"
+        },
+        {
+          "timestamp": "15:58",
+          "seconds": 958,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0480.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_17_16m.jpg",
+      "start_timestamp": "16:00",
+      "end_timestamp": "16:58",
+      "frames": [
+        {
+          "timestamp": "16:00",
+          "seconds": 960,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0481.jpg"
+        },
+        {
+          "timestamp": "16:02",
+          "seconds": 962,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0482.jpg"
+        },
+        {
+          "timestamp": "16:04",
+          "seconds": 964,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0483.jpg"
+        },
+        {
+          "timestamp": "16:06",
+          "seconds": 966,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0484.jpg"
+        },
+        {
+          "timestamp": "16:08",
+          "seconds": 968,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0485.jpg"
+        },
+        {
+          "timestamp": "16:10",
+          "seconds": 970,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0486.jpg"
+        },
+        {
+          "timestamp": "16:12",
+          "seconds": 972,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0487.jpg"
+        },
+        {
+          "timestamp": "16:14",
+          "seconds": 974,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0488.jpg"
+        },
+        {
+          "timestamp": "16:16",
+          "seconds": 976,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0489.jpg"
+        },
+        {
+          "timestamp": "16:18",
+          "seconds": 978,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0490.jpg"
+        },
+        {
+          "timestamp": "16:20",
+          "seconds": 980,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0491.jpg"
+        },
+        {
+          "timestamp": "16:22",
+          "seconds": 982,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0492.jpg"
+        },
+        {
+          "timestamp": "16:24",
+          "seconds": 984,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0493.jpg"
+        },
+        {
+          "timestamp": "16:26",
+          "seconds": 986,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0494.jpg"
+        },
+        {
+          "timestamp": "16:28",
+          "seconds": 988,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0495.jpg"
+        },
+        {
+          "timestamp": "16:30",
+          "seconds": 990,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0496.jpg"
+        },
+        {
+          "timestamp": "16:32",
+          "seconds": 992,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0497.jpg"
+        },
+        {
+          "timestamp": "16:34",
+          "seconds": 994,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0498.jpg"
+        },
+        {
+          "timestamp": "16:36",
+          "seconds": 996,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0499.jpg"
+        },
+        {
+          "timestamp": "16:38",
+          "seconds": 998,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0500.jpg"
+        },
+        {
+          "timestamp": "16:40",
+          "seconds": 1000,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0501.jpg"
+        },
+        {
+          "timestamp": "16:42",
+          "seconds": 1002,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0502.jpg"
+        },
+        {
+          "timestamp": "16:44",
+          "seconds": 1004,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0503.jpg"
+        },
+        {
+          "timestamp": "16:46",
+          "seconds": 1006,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0504.jpg"
+        },
+        {
+          "timestamp": "16:48",
+          "seconds": 1008,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0505.jpg"
+        },
+        {
+          "timestamp": "16:50",
+          "seconds": 1010,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0506.jpg"
+        },
+        {
+          "timestamp": "16:52",
+          "seconds": 1012,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0507.jpg"
+        },
+        {
+          "timestamp": "16:54",
+          "seconds": 1014,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0508.jpg"
+        },
+        {
+          "timestamp": "16:56",
+          "seconds": 1016,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0509.jpg"
+        },
+        {
+          "timestamp": "16:58",
+          "seconds": 1018,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0510.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_18_17m.jpg",
+      "start_timestamp": "17:00",
+      "end_timestamp": "17:58",
+      "frames": [
+        {
+          "timestamp": "17:00",
+          "seconds": 1020,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0511.jpg"
+        },
+        {
+          "timestamp": "17:02",
+          "seconds": 1022,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0512.jpg"
+        },
+        {
+          "timestamp": "17:04",
+          "seconds": 1024,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0513.jpg"
+        },
+        {
+          "timestamp": "17:06",
+          "seconds": 1026,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0514.jpg"
+        },
+        {
+          "timestamp": "17:08",
+          "seconds": 1028,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0515.jpg"
+        },
+        {
+          "timestamp": "17:10",
+          "seconds": 1030,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0516.jpg"
+        },
+        {
+          "timestamp": "17:12",
+          "seconds": 1032,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0517.jpg"
+        },
+        {
+          "timestamp": "17:14",
+          "seconds": 1034,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0518.jpg"
+        },
+        {
+          "timestamp": "17:16",
+          "seconds": 1036,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0519.jpg"
+        },
+        {
+          "timestamp": "17:18",
+          "seconds": 1038,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0520.jpg"
+        },
+        {
+          "timestamp": "17:20",
+          "seconds": 1040,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0521.jpg"
+        },
+        {
+          "timestamp": "17:22",
+          "seconds": 1042,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0522.jpg"
+        },
+        {
+          "timestamp": "17:24",
+          "seconds": 1044,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0523.jpg"
+        },
+        {
+          "timestamp": "17:26",
+          "seconds": 1046,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0524.jpg"
+        },
+        {
+          "timestamp": "17:28",
+          "seconds": 1048,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0525.jpg"
+        },
+        {
+          "timestamp": "17:30",
+          "seconds": 1050,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0526.jpg"
+        },
+        {
+          "timestamp": "17:32",
+          "seconds": 1052,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0527.jpg"
+        },
+        {
+          "timestamp": "17:34",
+          "seconds": 1054,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0528.jpg"
+        },
+        {
+          "timestamp": "17:36",
+          "seconds": 1056,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0529.jpg"
+        },
+        {
+          "timestamp": "17:38",
+          "seconds": 1058,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0530.jpg"
+        },
+        {
+          "timestamp": "17:40",
+          "seconds": 1060,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0531.jpg"
+        },
+        {
+          "timestamp": "17:42",
+          "seconds": 1062,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0532.jpg"
+        },
+        {
+          "timestamp": "17:44",
+          "seconds": 1064,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0533.jpg"
+        },
+        {
+          "timestamp": "17:46",
+          "seconds": 1066,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0534.jpg"
+        },
+        {
+          "timestamp": "17:48",
+          "seconds": 1068,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0535.jpg"
+        },
+        {
+          "timestamp": "17:50",
+          "seconds": 1070,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0536.jpg"
+        },
+        {
+          "timestamp": "17:52",
+          "seconds": 1072,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0537.jpg"
+        },
+        {
+          "timestamp": "17:54",
+          "seconds": 1074,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0538.jpg"
+        },
+        {
+          "timestamp": "17:56",
+          "seconds": 1076,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0539.jpg"
+        },
+        {
+          "timestamp": "17:58",
+          "seconds": 1078,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0540.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_19_18m.jpg",
+      "start_timestamp": "18:00",
+      "end_timestamp": "18:58",
+      "frames": [
+        {
+          "timestamp": "18:00",
+          "seconds": 1080,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0541.jpg"
+        },
+        {
+          "timestamp": "18:02",
+          "seconds": 1082,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0542.jpg"
+        },
+        {
+          "timestamp": "18:04",
+          "seconds": 1084,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0543.jpg"
+        },
+        {
+          "timestamp": "18:06",
+          "seconds": 1086,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0544.jpg"
+        },
+        {
+          "timestamp": "18:08",
+          "seconds": 1088,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0545.jpg"
+        },
+        {
+          "timestamp": "18:10",
+          "seconds": 1090,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0546.jpg"
+        },
+        {
+          "timestamp": "18:12",
+          "seconds": 1092,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0547.jpg"
+        },
+        {
+          "timestamp": "18:14",
+          "seconds": 1094,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0548.jpg"
+        },
+        {
+          "timestamp": "18:16",
+          "seconds": 1096,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0549.jpg"
+        },
+        {
+          "timestamp": "18:18",
+          "seconds": 1098,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0550.jpg"
+        },
+        {
+          "timestamp": "18:20",
+          "seconds": 1100,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0551.jpg"
+        },
+        {
+          "timestamp": "18:22",
+          "seconds": 1102,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0552.jpg"
+        },
+        {
+          "timestamp": "18:24",
+          "seconds": 1104,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0553.jpg"
+        },
+        {
+          "timestamp": "18:26",
+          "seconds": 1106,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0554.jpg"
+        },
+        {
+          "timestamp": "18:28",
+          "seconds": 1108,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0555.jpg"
+        },
+        {
+          "timestamp": "18:30",
+          "seconds": 1110,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0556.jpg"
+        },
+        {
+          "timestamp": "18:32",
+          "seconds": 1112,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0557.jpg"
+        },
+        {
+          "timestamp": "18:34",
+          "seconds": 1114,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0558.jpg"
+        },
+        {
+          "timestamp": "18:36",
+          "seconds": 1116,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0559.jpg"
+        },
+        {
+          "timestamp": "18:38",
+          "seconds": 1118,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0560.jpg"
+        },
+        {
+          "timestamp": "18:40",
+          "seconds": 1120,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0561.jpg"
+        },
+        {
+          "timestamp": "18:42",
+          "seconds": 1122,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0562.jpg"
+        },
+        {
+          "timestamp": "18:44",
+          "seconds": 1124,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0563.jpg"
+        },
+        {
+          "timestamp": "18:46",
+          "seconds": 1126,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0564.jpg"
+        },
+        {
+          "timestamp": "18:48",
+          "seconds": 1128,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0565.jpg"
+        },
+        {
+          "timestamp": "18:50",
+          "seconds": 1130,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0566.jpg"
+        },
+        {
+          "timestamp": "18:52",
+          "seconds": 1132,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0567.jpg"
+        },
+        {
+          "timestamp": "18:54",
+          "seconds": 1134,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0568.jpg"
+        },
+        {
+          "timestamp": "18:56",
+          "seconds": 1136,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0569.jpg"
+        },
+        {
+          "timestamp": "18:58",
+          "seconds": 1138,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0570.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_20_19m.jpg",
+      "start_timestamp": "19:00",
+      "end_timestamp": "19:58",
+      "frames": [
+        {
+          "timestamp": "19:00",
+          "seconds": 1140,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0571.jpg"
+        },
+        {
+          "timestamp": "19:02",
+          "seconds": 1142,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0572.jpg"
+        },
+        {
+          "timestamp": "19:04",
+          "seconds": 1144,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0573.jpg"
+        },
+        {
+          "timestamp": "19:06",
+          "seconds": 1146,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0574.jpg"
+        },
+        {
+          "timestamp": "19:08",
+          "seconds": 1148,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0575.jpg"
+        },
+        {
+          "timestamp": "19:10",
+          "seconds": 1150,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0576.jpg"
+        },
+        {
+          "timestamp": "19:12",
+          "seconds": 1152,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0577.jpg"
+        },
+        {
+          "timestamp": "19:14",
+          "seconds": 1154,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0578.jpg"
+        },
+        {
+          "timestamp": "19:16",
+          "seconds": 1156,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0579.jpg"
+        },
+        {
+          "timestamp": "19:18",
+          "seconds": 1158,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0580.jpg"
+        },
+        {
+          "timestamp": "19:20",
+          "seconds": 1160,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0581.jpg"
+        },
+        {
+          "timestamp": "19:22",
+          "seconds": 1162,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0582.jpg"
+        },
+        {
+          "timestamp": "19:24",
+          "seconds": 1164,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0583.jpg"
+        },
+        {
+          "timestamp": "19:26",
+          "seconds": 1166,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0584.jpg"
+        },
+        {
+          "timestamp": "19:28",
+          "seconds": 1168,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0585.jpg"
+        },
+        {
+          "timestamp": "19:30",
+          "seconds": 1170,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0586.jpg"
+        },
+        {
+          "timestamp": "19:32",
+          "seconds": 1172,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0587.jpg"
+        },
+        {
+          "timestamp": "19:34",
+          "seconds": 1174,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0588.jpg"
+        },
+        {
+          "timestamp": "19:36",
+          "seconds": 1176,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0589.jpg"
+        },
+        {
+          "timestamp": "19:38",
+          "seconds": 1178,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0590.jpg"
+        },
+        {
+          "timestamp": "19:40",
+          "seconds": 1180,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0591.jpg"
+        },
+        {
+          "timestamp": "19:42",
+          "seconds": 1182,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0592.jpg"
+        },
+        {
+          "timestamp": "19:44",
+          "seconds": 1184,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0593.jpg"
+        },
+        {
+          "timestamp": "19:46",
+          "seconds": 1186,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0594.jpg"
+        },
+        {
+          "timestamp": "19:48",
+          "seconds": 1188,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0595.jpg"
+        },
+        {
+          "timestamp": "19:50",
+          "seconds": 1190,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0596.jpg"
+        },
+        {
+          "timestamp": "19:52",
+          "seconds": 1192,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0597.jpg"
+        },
+        {
+          "timestamp": "19:54",
+          "seconds": 1194,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0598.jpg"
+        },
+        {
+          "timestamp": "19:56",
+          "seconds": 1196,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0599.jpg"
+        },
+        {
+          "timestamp": "19:58",
+          "seconds": 1198,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0600.jpg"
+        }
+      ]
+    },
+    {
+      "sheet": "Reference/pathway_atlas/pathway_sheet_21_20m.jpg",
+      "start_timestamp": "20:00",
+      "end_timestamp": "20:56",
+      "frames": [
+        {
+          "timestamp": "20:00",
+          "seconds": 1200,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0601.jpg"
+        },
+        {
+          "timestamp": "20:02",
+          "seconds": 1202,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0602.jpg"
+        },
+        {
+          "timestamp": "20:04",
+          "seconds": 1204,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0603.jpg"
+        },
+        {
+          "timestamp": "20:06",
+          "seconds": 1206,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0604.jpg"
+        },
+        {
+          "timestamp": "20:08",
+          "seconds": 1208,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0605.jpg"
+        },
+        {
+          "timestamp": "20:10",
+          "seconds": 1210,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0606.jpg"
+        },
+        {
+          "timestamp": "20:12",
+          "seconds": 1212,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0607.jpg"
+        },
+        {
+          "timestamp": "20:14",
+          "seconds": 1214,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0608.jpg"
+        },
+        {
+          "timestamp": "20:16",
+          "seconds": 1216,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0609.jpg"
+        },
+        {
+          "timestamp": "20:18",
+          "seconds": 1218,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0610.jpg"
+        },
+        {
+          "timestamp": "20:20",
+          "seconds": 1220,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0611.jpg"
+        },
+        {
+          "timestamp": "20:22",
+          "seconds": 1222,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0612.jpg"
+        },
+        {
+          "timestamp": "20:24",
+          "seconds": 1224,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0613.jpg"
+        },
+        {
+          "timestamp": "20:26",
+          "seconds": 1226,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0614.jpg"
+        },
+        {
+          "timestamp": "20:28",
+          "seconds": 1228,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0615.jpg"
+        },
+        {
+          "timestamp": "20:30",
+          "seconds": 1230,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0616.jpg"
+        },
+        {
+          "timestamp": "20:32",
+          "seconds": 1232,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0617.jpg"
+        },
+        {
+          "timestamp": "20:34",
+          "seconds": 1234,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0618.jpg"
+        },
+        {
+          "timestamp": "20:36",
+          "seconds": 1236,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0619.jpg"
+        },
+        {
+          "timestamp": "20:38",
+          "seconds": 1238,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0620.jpg"
+        },
+        {
+          "timestamp": "20:40",
+          "seconds": 1240,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0621.jpg"
+        },
+        {
+          "timestamp": "20:42",
+          "seconds": 1242,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0622.jpg"
+        },
+        {
+          "timestamp": "20:44",
+          "seconds": 1244,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0623.jpg"
+        },
+        {
+          "timestamp": "20:46",
+          "seconds": 1246,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0624.jpg"
+        },
+        {
+          "timestamp": "20:48",
+          "seconds": 1248,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0625.jpg"
+        },
+        {
+          "timestamp": "20:50",
+          "seconds": 1250,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0626.jpg"
+        },
+        {
+          "timestamp": "20:52",
+          "seconds": 1252,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0627.jpg"
+        },
+        {
+          "timestamp": "20:54",
+          "seconds": 1254,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0628.jpg"
+        },
+        {
+          "timestamp": "20:56",
+          "seconds": 1256,
+          "file": "Reference/youtube_tUMoegiI5_Q/pathway_frames_2sec/path_0629.jpg"
+        }
+      ]
+    }
+  ]
+}
