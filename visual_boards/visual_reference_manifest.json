@@ -1,0 +1,206 @@
+{
+  "source_video": "https://www.youtube.com/watch?v=tUMoegiI5_Q",
+  "generated_for": [
+    "Claude",
+    "Higgsfield",
+    "Unreal Engine"
+  ],
+  "instruction": "Use visual boards for appearance, route notes for sequence, and WORLD_GRAPH for adjacency. Do not invent exact dimensions from images alone.",
+  "zones": [
+    {
+      "id": "01_entry_garden",
+      "title": "01 Entry, Pumpkin Arch, Garden Path",
+      "notes": "Open lawn -> pumpkin arch -> enclosed garden path -> skull/fire pit/candy props.",
+      "board": "Reference/visual_boards/01_entry_garden.jpg",
+      "references": [
+        {
+          "timestamp": "00:00",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_00_00.jpg",
+          "note": "festival lawn, tower, pumpkins"
+        },
+        {
+          "timestamp": "00:20",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_00_20.jpg",
+          "note": "pumpkin arch gateway"
+        },
+        {
+          "timestamp": "01:00",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_01_00.jpg",
+          "note": "curved planted path"
+        },
+        {
+          "timestamp": "01:50",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_01_50.jpg",
+          "note": "skull rock garden prop"
+        },
+        {
+          "timestamp": "02:00",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_02_00.jpg",
+          "note": "fire pit / uplight garden"
+        },
+        {
+          "timestamp": "03:20",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_03_20.jpg",
+          "note": "stone/shop threshold"
+        }
+      ]
+    },
+    {
+      "id": "02_towne_square_shops",
+      "title": "02 Confection, Towne Square, Barter Posts",
+      "notes": "Candy/cafe interior -> sign cluster -> Barter Post storefronts -> open gravel/stage yard.",
+      "board": "Reference/visual_boards/02_towne_square_shops.jpg",
+      "references": [
+        {
+          "timestamp": "04:50",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_04_50.jpg",
+          "note": "food/confection interior"
+        },
+        {
+          "timestamp": "06:30",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_06_30.jpg",
+          "note": "map/sign board"
+        },
+        {
+          "timestamp": "07:30",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_07_30.jpg",
+          "note": "Barter Post blue shutters"
+        },
+        {
+          "timestamp": "08:20",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_08_20.jpg",
+          "note": "chapel sightline from yard"
+        },
+        {
+          "timestamp": "09:10",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_09_10.jpg",
+          "note": "menu / cafe entrance"
+        },
+        {
+          "timestamp": "10:30",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_10_30.jpg",
+          "note": "Barter Post close facade"
+        }
+      ]
+    },
+    {
+      "id": "03_chapel_activity_yard",
+      "title": "03 Chapel Graveyard and Activity Yard",
+      "notes": "Chapel-front pumpkin graveyard -> twig arch -> cages/fences -> rough backlot field.",
+      "board": "Reference/visual_boards/03_chapel_activity_yard.jpg",
+      "references": [
+        {
+          "timestamp": "11:00",
+          "file": "Reference/youtube_tUMoegiI5_Q/dense_11_16/dense_0001.jpg",
+          "note": "chapel graveyard approach"
+        },
+        {
+          "timestamp": "11:20",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_11_20.jpg",
+          "note": "pumpkin tree / chapel path"
+        },
+        {
+          "timestamp": "11:40",
+          "file": "Reference/youtube_tUMoegiI5_Q/dense_11_16/dense_0009.jpg",
+          "note": "twig pumpkin arch"
+        },
+        {
+          "timestamp": "12:00",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_12_00.jpg",
+          "note": "fenced back path"
+        },
+        {
+          "timestamp": "12:20",
+          "file": "Reference/youtube_tUMoegiI5_Q/dense_11_16/dense_0017.jpg",
+          "note": "activity booth / open field"
+        },
+        {
+          "timestamp": "12:40",
+          "file": "Reference/youtube_tUMoegiI5_Q/dense_11_16/dense_0021.jpg",
+          "note": "giant pumpkin and barn-like building"
+        }
+      ]
+    },
+    {
+      "id": "04_bridge_ruins_hall",
+      "title": "04 Rope Bridge, Celtic Ruins, Raised Hall",
+      "notes": "Rope/tent bridge set -> ruins approach -> raised hall interior -> balcony and ruin courtyard.",
+      "board": "Reference/visual_boards/04_bridge_ruins_hall.jpg",
+      "references": [
+        {
+          "timestamp": "13:05",
+          "file": "Reference/youtube_tUMoegiI5_Q/dense_11_16/dense_0026.jpg",
+          "note": "rope bridge threshold"
+        },
+        {
+          "timestamp": "13:20",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_13_20.jpg",
+          "note": "tent / ship wheel vignette"
+        },
+        {
+          "timestamp": "13:40",
+          "file": "Reference/youtube_tUMoegiI5_Q/dense_11_16/dense_0033.jpg",
+          "note": "Celtic Ruins approach"
+        },
+        {
+          "timestamp": "14:20",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_14_20.jpg",
+          "note": "raised wood hall entry"
+        },
+        {
+          "timestamp": "15:20",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_15_20.jpg",
+          "note": "balcony over ruins"
+        },
+        {
+          "timestamp": "16:20",
+          "file": "Reference/youtube_tUMoegiI5_Q/dense_11_16/dense_0065.jpg",
+          "note": "ruin props / column / firepit edge"
+        },
+        {
+          "timestamp": "16:40",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_16_40.jpg",
+          "note": "ruin courtyard exit"
+        }
+      ]
+    },
+    {
+      "id": "05_big_top_vendor_return",
+      "title": "05 Big Top, Vendor Street, Return Edge",
+      "notes": "Festival field -> Big Top and vendors -> string lights -> green tents/greenhouse return.",
+      "board": "Reference/visual_boards/05_big_top_vendor_return.jpg",
+      "references": [
+        {
+          "timestamp": "17:00",
+          "file": "Reference/youtube_tUMoegiI5_Q/frames/frame_0103.jpg",
+          "note": "return toward festival field"
+        },
+        {
+          "timestamp": "17:40",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_17_40.jpg",
+          "note": "red-striped Big Top"
+        },
+        {
+          "timestamp": "18:30",
+          "file": "Reference/youtube_tUMoegiI5_Q/frames/frame_0112.jpg",
+          "note": "costume/shop booth"
+        },
+        {
+          "timestamp": "19:30",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_19_30.jpg",
+          "note": "vendor street / string lights"
+        },
+        {
+          "timestamp": "20:00",
+          "file": "Reference/youtube_tUMoegiI5_Q/frames/frame_0121.jpg",
+          "note": "return lawn and green tents"
+        },
+        {
+          "timestamp": "20:50",
+          "file": "Reference/youtube_tUMoegiI5_Q/keyframes/key_00_20_50.jpg",
+          "note": "greenhouse / final sign board"
+        }
+      ]
+    }
+  ]
+}
