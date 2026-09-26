@@ -1,0 +1,153 @@
+{
+  "source": {
+    "video_title": "October Evermore Park Walkthrough in 4K",
+    "youtube_id": "tUMoegiI5_Q",
+    "duration_seconds": 1259,
+    "survey_date": "2026-07-06"
+  },
+  "notes": [
+    "Node positions are approximate for blockout, not survey-grade measurements.",
+    "Confidence values describe this video's visual evidence only.",
+    "Use additional walkthroughs, photos, and aerial references before final art lock."
+  ],
+  "nodes": [
+    {
+      "id": "entry_festival_lawn",
+      "name": "Entry / Festival Lawn",
+      "map_zone": "Haunt Entrance / Towne Square edge",
+      "timestamps": ["00:00", "20:00"],
+      "confidence": "medium",
+      "landmarks": ["green tents", "wood tower/gazebo", "large pumpkins", "mountain backdrop"]
+    },
+    {
+      "id": "pumpkin_arch",
+      "name": "Pumpkin Arch Gateway",
+      "map_zone": "Haunt Entrance / garden transition",
+      "timestamps": ["00:20"],
+      "confidence": "high",
+      "landmarks": ["pumpkin-covered arch", "curved path", "green tent nearby"]
+    },
+    {
+      "id": "garden_path",
+      "name": "Curved Garden Path",
+      "map_zone": "Evermore Gardens / Glynshire Grove edge",
+      "timestamps": ["00:40", "01:00", "01:20"],
+      "confidence": "high",
+      "landmarks": ["low retaining wall", "dense shrubs", "hanging pumpkins", "white signposts"]
+    },
+    {
+      "id": "firepit_garden",
+      "name": "Fire Pit Garden Vignette",
+      "map_zone": "Garden path",
+      "timestamps": ["01:50", "02:00", "02:20"],
+      "confidence": "high",
+      "landmarks": ["round stone fire pit", "cauldron props", "candy props", "colored uplights"]
+    },
+    {
+      "id": "confection_interior",
+      "name": "Confection / Cafe Interior",
+      "map_zone": "Copper Confection / Kettle Cafe vicinity",
+      "timestamps": ["03:20", "04:00", "04:50", "05:00"],
+      "confidence": "medium",
+      "landmarks": ["display window", "candy shelves", "potion bottles", "bakery counter"]
+    },
+    {
+      "id": "map_sign_cluster",
+      "name": "Map and Haunted Circus Sign Cluster",
+      "map_zone": "Towne Square approach",
+      "timestamps": ["06:10", "06:30", "06:40"],
+      "confidence": "high",
+      "landmarks": ["park map", "Haunted Circus sign", "pumpkin-lined path"]
+    },
+    {
+      "id": "barters_post",
+      "name": "Barter's Post Storefronts",
+      "map_zone": "Towne Square",
+      "timestamps": ["07:30", "10:30"],
+      "confidence": "high",
+      "landmarks": ["blue shutters", "round sign", "stone base", "shop window"]
+    },
+    {
+      "id": "gravel_stage_yard",
+      "name": "Gravel Stage Yard",
+      "map_zone": "Main Stage / Towne Square center",
+      "timestamps": ["07:40", "07:50", "08:00", "08:10"],
+      "confidence": "medium",
+      "landmarks": ["fog", "stone wall", "pumpkins", "open gravel court"]
+    },
+    {
+      "id": "chapel_graveyard",
+      "name": "Emery / Emory Chapel Graveyard",
+      "map_zone": "Emery/Emory Chapel",
+      "timestamps": ["08:20", "11:00", "11:20"],
+      "confidence": "high",
+      "landmarks": ["chapel tower", "hay-bale graveyard", "jack-o-lanterns", "pumpkin tree"]
+    },
+    {
+      "id": "activity_yard",
+      "name": "Back Activity Yard",
+      "map_zone": "Hunter's Hovel / activity range vicinity",
+      "timestamps": ["11:30", "12:00", "12:15", "12:45"],
+      "confidence": "medium",
+      "landmarks": ["gravel paths", "cage fencing", "twig pumpkin arch", "rustic stalls"]
+    },
+    {
+      "id": "rope_tent_bridge",
+      "name": "Rope Bridge and Tent Vignette",
+      "map_zone": "Path between activity yard and Celtic Ruins",
+      "timestamps": ["13:05", "13:10", "13:20", "13:30"],
+      "confidence": "high",
+      "landmarks": ["rope railings", "heavy posts", "canvas tent", "ship wheel", "rock/water edge"]
+    },
+    {
+      "id": "celtic_ruins",
+      "name": "Celtic Ruins",
+      "map_zone": "Celtic Ruins",
+      "timestamps": ["13:35", "13:50", "15:20", "15:45", "16:20"],
+      "confidence": "high",
+      "landmarks": ["stacked stone ruins", "white columns", "dry creek bed", "curved dirt paths"]
+    },
+    {
+      "id": "raised_hall",
+      "name": "Raised Wooden Hall / Drakenhaven-side Interior",
+      "map_zone": "Drakenhaven vicinity",
+      "timestamps": ["14:05", "14:20", "14:45", "15:10"],
+      "confidence": "medium",
+      "landmarks": ["wooden entry", "raised deck", "curio shelves", "tombstone sign", "balcony"]
+    },
+    {
+      "id": "big_top_field",
+      "name": "Big Top Festival Field",
+      "map_zone": "Olde Town / Big Top / Vendors",
+      "timestamps": ["16:50", "17:30", "17:40", "18:20"],
+      "confidence": "high",
+      "landmarks": ["red-striped Big Top", "green and cream tents", "giant pumpkins", "costumed actors"]
+    },
+    {
+      "id": "vendor_return",
+      "name": "Vendor Street / Greenhouse Return",
+      "map_zone": "Olde Towne Market / Notting Glass House edge",
+      "timestamps": ["18:50", "19:30", "20:30", "20:50"],
+      "confidence": "medium-high",
+      "landmarks": ["string lights", "vendor booths", "green tents", "glasshouse", "final sign board"]
+    }
+  ],
+  "edges": [
+    {"from": "entry_festival_lawn", "to": "pumpkin_arch", "route_order": 1},
+    {"from": "pumpkin_arch", "to": "garden_path", "route_order": 2},
+    {"from": "garden_path", "to": "firepit_garden", "route_order": 3},
+    {"from": "firepit_garden", "to": "confection_interior", "route_order": 4},
+    {"from": "confection_interior", "to": "map_sign_cluster", "route_order": 5},
+    {"from": "map_sign_cluster", "to": "barters_post", "route_order": 6},
+    {"from": "barters_post", "to": "gravel_stage_yard", "route_order": 7},
+    {"from": "gravel_stage_yard", "to": "chapel_graveyard", "route_order": 8},
+    {"from": "chapel_graveyard", "to": "activity_yard", "route_order": 9},
+    {"from": "activity_yard", "to": "rope_tent_bridge", "route_order": 10},
+    {"from": "rope_tent_bridge", "to": "celtic_ruins", "route_order": 11},
+    {"from": "celtic_ruins", "to": "raised_hall", "route_order": 12},
+    {"from": "raised_hall", "to": "celtic_ruins", "route_order": 13},
+    {"from": "celtic_ruins", "to": "big_top_field", "route_order": 14},
+    {"from": "big_top_field", "to": "vendor_return", "route_order": 15},
+    {"from": "vendor_return", "to": "entry_festival_lawn", "route_order": 16}
+  ]
+}
